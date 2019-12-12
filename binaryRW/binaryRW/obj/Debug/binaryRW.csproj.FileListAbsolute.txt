@@ -18,3 +18,13 @@ C:\Users\johan\Desktop\binaryRW\binaryRW\obj\Debug\binaryRW.csproj.GenerateResou
 C:\Users\johan\Desktop\binaryRW\binaryRW\obj\Debug\binaryRW.csproj.CoreCompileInputs.cache
 C:\Users\johan\Desktop\binaryRW\binaryRW\obj\Debug\codeWriter.exe
 C:\Users\johan\Desktop\binaryRW\binaryRW\obj\Debug\codeWriter.pdb
+C:\Users\johan\Desktop\codeWriter\code-writer.code\binaryRW\binaryRW\bin\Debug\codeWriter.exe.config
+C:\Users\johan\Desktop\codeWriter\code-writer.code\binaryRW\binaryRW\bin\Debug\codeWriter.exe
+C:\Users\johan\Desktop\codeWriter\code-writer.code\binaryRW\binaryRW\bin\Debug\codeWriter.pdb
+C:\Users\johan\Desktop\codeWriter\code-writer.code\binaryRW\binaryRW\obj\Debug\binaryRW.csprojAssemblyReference.cache
+C:\Users\johan\Desktop\codeWriter\code-writer.code\binaryRW\binaryRW\obj\Debug\binaryRW.Form1.resources
+C:\Users\johan\Desktop\codeWriter\code-writer.code\binaryRW\binaryRW\obj\Debug\codeWriter.Properties.Resources.resources
+C:\Users\johan\Desktop\codeWriter\code-writer.code\binaryRW\binaryRW\obj\Debug\binaryRW.csproj.GenerateResource.cache
+C:\Users\johan\Desktop\codeWriter\code-writer.code\binaryRW\binaryRW\obj\Debug\binaryRW.csproj.CoreCompileInputs.cache
+C:\Users\johan\Desktop\codeWriter\code-writer.code\binaryRW\binaryRW\obj\Debug\codeWriter.exe
+C:\Users\johan\Desktop\codeWriter\code-writer.code\binaryRW\binaryRW\obj\Debug\codeWriter.pdb

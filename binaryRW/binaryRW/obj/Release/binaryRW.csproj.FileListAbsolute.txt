@@ -1,0 +1,9 @@
+C:\Users\johan\Desktop\codeWriter\code-writer.code\binaryRW\binaryRW\bin\Release\codeWriter.exe.config
+C:\Users\johan\Desktop\codeWriter\code-writer.code\binaryRW\binaryRW\bin\Release\codeWriter.exe
+C:\Users\johan\Desktop\codeWriter\code-writer.code\binaryRW\binaryRW\bin\Release\codeWriter.pdb
+C:\Users\johan\Desktop\codeWriter\code-writer.code\binaryRW\binaryRW\obj\Release\binaryRW.Form1.resources
+C:\Users\johan\Desktop\codeWriter\code-writer.code\binaryRW\binaryRW\obj\Release\codeWriter.Properties.Resources.resources
+C:\Users\johan\Desktop\codeWriter\code-writer.code\binaryRW\binaryRW\obj\Release\binaryRW.csproj.GenerateResource.cache
+C:\Users\johan\Desktop\codeWriter\code-writer.code\binaryRW\binaryRW\obj\Release\binaryRW.csproj.CoreCompileInputs.cache
+C:\Users\johan\Desktop\codeWriter\code-writer.code\binaryRW\binaryRW\obj\Release\codeWriter.exe
+C:\Users\johan\Desktop\codeWriter\code-writer.code\binaryRW\binaryRW\obj\Release\codeWriter.pdb
